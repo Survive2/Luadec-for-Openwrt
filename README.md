@@ -4,7 +4,7 @@
 # 说明
 默认编译的lua与luadec是lua5.1的，默认为32位，如果需要64位，需要更改lua-5.1/src下的Makefile与luadec/luadec下的Makefile，去掉CFLAGS与MYLDFLAGS中的-m32标志。<br>
 
-示例:<br>
+# 示例:<br>
 使用原版luadec反编译会报错：<br>
 ![image](https://github.com/user-attachments/assets/3ce78119-b993-4908-8172-ded061e95937)<br>
 
