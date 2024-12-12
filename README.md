@@ -11,7 +11,7 @@
 使用更改后的luadec反编译成功：<br>
 ![image](https://github.com/user-attachments/assets/b592a1c0-1639-47ce-98c7-44edee0660e5)<br>
 
-# Usage
+# 用法
 ```sh
 git clone https://github.com/Survive2/Luadec-for-Openwrt.git
 cd Luadec-for-Openwrt
