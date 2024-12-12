@@ -2,9 +2,10 @@
 
 示例:<br>
 使用原版luadec反编译会报错：<br>
-![image](https://github.com/user-attachments/assets/deaaf3e3-c6fd-4a63-9bbd-937fa1549358)
+![image](https://github.com/user-attachments/assets/3ce78119-b993-4908-8172-ded061e95937)<br>
+
 使用更改后的luadec反编译成功：<br>
-![image](https://github.com/user-attachments/assets/b592a1c0-1639-47ce-98c7-44edee0660e5)
+![image](https://github.com/user-attachments/assets/b592a1c0-1639-47ce-98c7-44edee0660e5)<br>
 
 # Usage
 ```sh
