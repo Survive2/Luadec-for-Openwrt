@@ -8,7 +8,7 @@
 ```sh
 git clone https://github.com/Survive2/Luadec-for-Openwrt.git
 cd Luadec-for-Openwrt
-cd luadec/lua-5.1
+cd lua-5.1
 make linux
 cd ../luadec
 make LUAVER=5.1
