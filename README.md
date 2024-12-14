@@ -1,5 +1,5 @@
 # Luadec-for-Openwrt
-用来反编译Openwrt下的lua字节码<br>
+修改原版的Luadec用来反编译Openwrt下的被修改过的lua字节码<br>
 感谢viruscamp(https://github.com/viruscamp/luadec.git)
 # 说明
 默认编译的lua与luadec是lua5.1的，默认为32位，如果需要64位，需要更改lua-5.1/src下的Makefile与luadec下的Makefile，去掉CFLAGS与MYLDFLAGS中的-m32标志。<br>
